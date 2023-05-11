@@ -1,15 +1,34 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace lab33
+namespace choice
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            int A, B, choice;
+            Console.WriteLine("Введите числа А и В:");
+            A = Convert.ToInt32(Console.ReadLine());
+            B = Convert.ToInt32(Console.ReadLine());
+            choice = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите 1, чтобы сложить, 2 - отнять, 3 - умножить и 4 - разделить");
+
+            switch (choice)
+            {
+                case '1':
+                    
+                    break;
+                case '2':
+                    
+                    break;
+                case '3':
+                   
+                    break;
+
+                case '4':
+                    
+                    break;
+            }
+
         }
     }
 }
