@@ -15,6 +15,7 @@ namespace choice
             switch (choice)
             {
                 case 1:
+
                     int sum = A + B;
                     Console.WriteLine($"сумма:{sum}");
                     break;
@@ -22,12 +23,14 @@ namespace choice
                     int sub = A - B;
                     Console.WriteLine($"разность:{sub}");
                     break;
-                case '3':
-                   
+                case 3:
+                    int mul = A * B;
+                    Console.WriteLine($"произведение:{mul}");
                     break;
 
-                case '4':
-                    
+                case 4:
+                    int del = A / B;
+                    Console.WriteLine($"частное:{del}");
                     break;
             }
 

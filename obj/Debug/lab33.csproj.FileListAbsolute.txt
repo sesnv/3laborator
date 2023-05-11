@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\repository\3laborator\bin\Debug\lab33.exe.config
 C:\repository\3laborator\bin\Debug\lab33.exe
 C:\repository\3laborator\bin\Debug\lab33.pdb
@@ -6,3 +7,13 @@ C:\repository\3laborator\obj\Debug\lab33.csproj.SuggestedBindingRedirects.cache
 C:\repository\3laborator\obj\Debug\lab33.csproj.CoreCompileInputs.cache
 C:\repository\3laborator\obj\Debug\lab33.exe
 C:\repository\3laborator\obj\Debug\lab33.pdb
+=======
+C:\Users\Alex\source\repos\3labs\bin\Debug\lab33.exe.config
+C:\Users\Alex\source\repos\3labs\bin\Debug\lab33.exe
+C:\Users\Alex\source\repos\3labs\bin\Debug\lab33.pdb
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.exe
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.pdb
+>>>>>>> umnogh
