@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\3labs\bin\Debug\lab33.exe.config
+C:\Users\Alex\source\repos\3labs\bin\Debug\lab33.exe
+C:\Users\Alex\source\repos\3labs\bin\Debug\lab33.pdb
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.exe
+C:\Users\Alex\source\repos\3labs\obj\Debug\lab33.pdb
